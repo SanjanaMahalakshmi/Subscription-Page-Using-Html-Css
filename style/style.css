@@ -1,0 +1,22 @@
+.box{
+    background-color: lightgrey;
+    border: 1px solid silver;
+    padding: 10px;
+    font-size: larger;
+    
+    
+}
+.box .main{
+    background-color: white;
+    padding: 20px;
+}
+.subscribe{
+    text-align: center;
+    padding: 20px;
+    
+}
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: green
+}
